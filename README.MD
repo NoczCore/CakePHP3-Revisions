@@ -14,8 +14,8 @@ This plugin allows to create revisions on the tables of your choice and revert t
 
 ### Requirements
 
-- Composer
-- CakePHP 3
+- [Composer](https://getcomposer.org/)
+- [CakePHP 3.2 or above](http://cakephp.org/)
 
 ###Steps to install
 
@@ -62,4 +62,4 @@ Put in your controller:
 - Add unit tests.
 
 ## Licence
-This plugin is released under the MIT licence.
+This plugin is released under the [MIT licence](https://github.com/NoczCore/CakePHP3-Revision/blob/master/LICENSE).
