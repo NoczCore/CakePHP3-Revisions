@@ -25,14 +25,14 @@ It is very simple to install this plugin. Just three steps and it works.
 - Import 'config\schema\revisions.sql' in your database.
 - Put ``Plugin::load('Revisions')`` in 'config\bootstrap.php'
 
-### How to use
+## How to use
 It's very easy !
 
-## Behavior
+### Behavior
 
 To use this plugins, you must load the RevisionsBehavior in your tables.
 
-### For example:
+#### For example:
 ```
 namespace App\Model\Table;
 
