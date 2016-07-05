@@ -22,13 +22,9 @@ This plugin allows to create revisions on the tables of your choice and revert t
 
 It is very simple to install this plugin. Just three steps and it works.
 
-- Run: ```
-composer install noczcore/cakephp3-revisions
-```
+- Run: ``composer install noczcore/cakephp3-revisions``
 - Import 'config\schema\revisions.sql' in your database.
-- Put ```
-Plugin::load('Revisions')
-``` in 'config\bootstrap.php'
+- Put ``Plugin::load('Revisions')`` in 'config\bootstrap.php'
 
 ### How to use
 It's very easy !
@@ -61,9 +57,7 @@ Now, after all save, the plugin will automatically create a revision.
 **For return to a revision:**
 
 Put in your controller:
-```
-$this->Posts->revert($post_id, $revision_id);
-```
+``$this->Posts->revert($post_id, $revision_id);``
 
 ## TODO
 - Add unit tests.
