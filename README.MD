@@ -1,6 +1,5 @@
 # CakePHP3-Revisions
 
----
 
 This plugin allows to create revisions on the tables of your choice and revert to a selected revision.
 
