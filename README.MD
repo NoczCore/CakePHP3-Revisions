@@ -62,4 +62,4 @@ Put in your controller:
 - Add unit tests.
 
 ## Licence
-This plugin is released under the [MIT licence](https://github.com/NoczCore/CakePHP3-Revision/blob/master/LICENSE).
+This plugin is released under the [MIT licence](https://raw.githubusercontent.com/NoczCore/CakePHP3-Revisions/master/LICENSE).
