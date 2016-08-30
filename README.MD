@@ -33,7 +33,7 @@ It's very easy !
 To use this plugins, you must load the RevisionsBehavior in your tables.
 
 #### For example:
-```
+```php
 namespace App\Model\Table;
 
 use Cake\ORM\Table;
